@@ -272,7 +272,7 @@ class MainThread(QThread):
 
 startExecution= MainThread()
 def run_flask():
-    app.run(host="127.0.0.1", port=5000, debug=False, use_reloader=False)
+    app.run(host="0.0.0.0",debug=False)
 
 # PyQt5 Main Window
 class MainWindow(QMainWindow):
