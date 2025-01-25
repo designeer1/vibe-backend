@@ -95,7 +95,7 @@ pythonnet==3.0.5
 pyttsx3==2.98
 pytweening==1.2.0
 pywebview==5.3.2
-pywin32==227; platform_system == 'Windows'
+pywin32==225; platform_system == 'Windows'
 pip>=24.3.1
 
 qt5-applications==5.15.2.2.3
