@@ -79,7 +79,7 @@ Pygments==2.19.1
 PyMsgBox==1.0.9
 pyparsing==3.1.4
 pyperclip==1.9.0
-pypiwin32==308
+pywin32==308
 PyQt5==5.15.9
 pyqt5-plugins==5.15.9.2.3
 PyQt5-Qt5==5.15.2
